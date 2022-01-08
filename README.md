@@ -1,1 +1,1 @@
-# app-select-n-share-a-place
+# select-n-share-a-place
